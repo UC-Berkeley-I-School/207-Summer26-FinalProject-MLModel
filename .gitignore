@@ -1,0 +1,6 @@
+datasets/
+*.csv
+*.psv
+*.txt
+*.zip
+.ipynb_checkpoints/
