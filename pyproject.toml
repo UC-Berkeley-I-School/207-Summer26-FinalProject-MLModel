@@ -1,0 +1,16 @@
+[project]
+name = "207-summer26-finalproject-mlmodel"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "gdown>=6.1.0",
+    "ipykernel",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "pyarrow>=24.0.0",
+    "scikit-learn",
+    "seaborn",
+]
