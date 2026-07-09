@@ -1,2 +1,6 @@
 *.psv
 *.parquet
+teammates_notebook/
+datasets/
+.DS_Store
+.ipynb_checkpoints/
