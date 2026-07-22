@@ -1,2 +1,5 @@
 *.psv
 *.parquet
+*.zip
+*__pycache__
+.venv

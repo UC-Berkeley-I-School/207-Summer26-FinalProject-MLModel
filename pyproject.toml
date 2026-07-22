@@ -5,12 +5,18 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "airportsdata>=20260315",
+    "beautifulsoup4>=4.15.0",
     "gdown>=6.1.0",
+    "holidays>=0.100",
     "ipykernel",
     "matplotlib",
     "numpy",
     "pandas",
     "pyarrow>=24.0.0",
+    "requests>=2.34.2",
     "scikit-learn",
     "seaborn",
+    "tensorflow>=2.21.0",
+    "xgboost>=3.3.0",
 ]
